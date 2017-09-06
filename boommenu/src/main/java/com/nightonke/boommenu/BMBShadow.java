@@ -80,7 +80,7 @@ public class BMBShadow extends FrameLayout {
 
     private Bitmap createShadowBitmap() {
 		int height = getHeight();
-		int width = getWidth():
+		int width = getWidth();
 		if(height <= 0){
 			height = 1;
 		}
